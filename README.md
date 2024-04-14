@@ -28,6 +28,9 @@ The project utilizes the FER2013 dataset, which can be found at [Kaggle](https:/
 5. After training, two files will be created: `emotiondetector.json` (containing the model architecture) and `emotiondetector.h5` (containing the model weights and configuration).
 6. Load the trained model in the `Implementation.ipynb` notebook and use it to perform facial emotion detection on static images by providing their file paths.
 
+## Model Performance
+After training the model for 100 epochs, the achieved accuracy on the validation set is approximately 63%, with a corresponding loss of around 1.01. While this accuracy is decent, there is still room for improvement. The model seems to suffer from overfitting, as the training accuracy is notably higher than the validation accuracy.
+
 ## Project Directory Structure
 After model training, your project directory should resemble the screenshot below:
 

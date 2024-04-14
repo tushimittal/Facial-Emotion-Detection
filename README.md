@@ -30,6 +30,7 @@ The project utilizes the FER2013 dataset, which can be found at [Kaggle](https:/
 
 ## Project Directory Structure
 After model training, your project directory should resemble the screenshot below:
+
 ![Project Directory Structure](screenshots/project_directory_structure.png)
 
 ## Future Improvements

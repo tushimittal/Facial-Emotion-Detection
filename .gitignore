@@ -1,0 +1,9 @@
+# Ignore test and train directories
+test/
+train/
+
+#Ignore h5 files
+*.h5
+
+#Ignore json files
+*.json
